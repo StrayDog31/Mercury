@@ -1,0 +1,9 @@
+﻿  Application.cpp
+C:\engine\Mercury\src\Mercury\Application.cpp(3,23): warning C4273: Mercury::Application::Application: несовместимое связывание dll
+C:\engine\Mercury\src\Mercury\Application.h(12,3): message : см. предыдущее определение "{ctor}"
+C:\engine\Mercury\src\Mercury\Application.cpp(7,24): warning C4273: Mercury::Application::~Application: несовместимое связывание dll
+C:\engine\Mercury\src\Mercury\Application.h(13,4): message : см. предыдущее определение "{dtor}"
+C:\engine\Mercury\src\Mercury\Application.cpp(11,28): warning C4273: Mercury::Application::Run: несовместимое связывание dll
+C:\engine\Mercury\src\Mercury\Application.h(15,8): message : см. предыдущее определение "Run"
+     Создается библиотека C:\engine\bin\Debug-x64\Mercury\Mercury.lib и объект C:\engine\bin\Debug-x64\Mercury\Mercury.exp
+  Mercury.vcxproj -> C:\engine\bin\Debug-x64\Mercury\Mercury.dll
